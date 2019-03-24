@@ -14,7 +14,7 @@ Software Requirements Specification for OMG Version 0.1
 
    Functional requirements
 
-   Non-functional requirements
+   Non-functional Requirements
 
    Constraints
 
